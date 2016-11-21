@@ -3,3 +3,10 @@ pybloom_live
 PyMySQL
 requests
 virtualenv
+Flask
+Flask-Bootstrap
+Flask-Script
+Flask-SQLAlchemy
+Flask-WTF
+gunicorn
+uWSGI
